@@ -24,13 +24,13 @@ public class Array1 {
 			{
 				if(i==0)//for first row
 				{
-                    System.out.println(arr[i][j]);
-                    sum1=sum1+arr[i][j];
+                  		        System.out.println(arr[i][j]);
+                    		        sum1=sum1+arr[i][j];
 				}
 				if(i==1)//for second row
 				{
-					System.out.println(arr[i][j]);
-                    sum2=sum2+arr[i][j];
+					 System.out.println(arr[i][j]);
+                   			 sum2=sum2+arr[i][j];
 				}
 			}
 		}
